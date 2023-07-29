@@ -4,10 +4,10 @@ Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar ness
 
 ##
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&show_icons=true&theme=dark" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Edson-Litsur&count_private=true&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edson-Litsur&layout=compact&theme=dark" />
 </a>
 
 
