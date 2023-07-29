@@ -1,7 +1,7 @@
 # Edson Litsur
 ## Oiii eu sou a Edson Litsur, criadora de conteúdo de programação e tecnologia!
 Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-
+ 
 ##
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Edson-Litsur&count_private=true&show_icons=true&theme=dark" />
